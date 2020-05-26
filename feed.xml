@@ -3,10 +3,10 @@
   <channel>
     <title>Prompt</title>
     <description>Prompt Media - Drum and Bass - San Francisco</description>
-    <link>http://prompt.media/podcast.rss//</link>
-    <atom:link href="http://prompt.media/podcast.rss//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 May 2020 21:39:41 -0700</pubDate>
-    <lastBuildDate>Mon, 25 May 2020 21:39:41 -0700</lastBuildDate>
+    <link>http://prompt.media///</link>
+    <atom:link href="http://prompt.media///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 25 May 2020 21:49:57 -0700</pubDate>
+    <lastBuildDate>Mon, 25 May 2020 21:49:57 -0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -43,8 +43,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 25 May 2020 03:18:00 -0700</pubDate>
-        <link>http://prompt.media/podcast.rss//episodes/2020/05/25/May-25th-2020.html</link>
-        <guid isPermaLink="true">http://prompt.media/podcast.rss//episodes/2020/05/25/May-25th-2020.html</guid>
+        <link>http://prompt.media///episodes/2020/05/25/May-25th-2020.html</link>
+        <guid isPermaLink="true">http://prompt.media///episodes/2020/05/25/May-25th-2020.html</guid>
         
         
         <category>episodes</category>
