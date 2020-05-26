@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en">
 	<channel>
-		<atom:link href="http://prompt.media//podcast.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="http://prompt.media/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>Prompt</title>
 		<description>Prompt Media - Drum and Bass - San Francisco</description>
 		<link>http://prompt.media/</link>
 		<language>en</language>
 		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
 		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
-		<copyright>2020-2020-05-25 21:56:19 -0700 Prompt</copyright>
-		<pubDate>Mon, 25 May 2020 21:56:19 -0700</pubDate>
-		<lastBuildDate>Mon, 25 May 2020 21:56:19 -0700</lastBuildDate>
+		<copyright>2020-2020-05-25 22:01:07 -0700 Prompt</copyright>
+		<pubDate>Mon, 25 May 2020 22:01:07 -0700</pubDate>
+		<lastBuildDate>Mon, 25 May 2020 22:01:07 -0700</lastBuildDate>
 		<image>
 			<link>http://prompt.media/</link>
 			<url>http://prompt.media//images/itunes.png</url>
@@ -24,7 +24,7 @@
 			<itunes:name>Prompt</itunes:name>
 			<itunes:email>prompt@nightgen.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="http://prompt.media//assets/images/podcast.png" />
+		<itunes:image href="http://prompt.media/assets/images/podcast.jpg" />
 		<itunes:category text="Music" />
 		<itunes:explicit>yes</itunes:explicit>
 		
