@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en">
+	<channel>
+		<atom:link href="http://prompt.media/podcast.rss/podcast.rss" rel="self" type="application/rss+xml" />
+		<title>Prompt</title>
+		<description>Prompt Media - Drum and Bass - San Francisco</description>
+		<link>http://prompt.media/podcast.rss</link>
+		<language>en</language>
+		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
+		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
+		<copyright>2020-2020-05-25 21:39:41 -0700 Prompt</copyright>
+		<pubDate>Mon, 25 May 2020 21:39:41 -0700</pubDate>
+		<lastBuildDate>Mon, 25 May 2020 21:39:41 -0700</lastBuildDate>
+		<image>
+			<link>http://prompt.media/podcast.rss</link>
+			<url>http://prompt.media/podcast.rss/images/itunes.png</url>
+			<title>Prompt</title>
+		</image>
+		<itunes:subtitle>Prompt Media - Drum and Bass - San Francisco</itunes:subtitle>
+		<itunes:author>Prompt</itunes:author>
+		<itunes:summary>Prompt Media - Drum and Bass - San Francisco</itunes:summary>
+		<itunes:keywords></itunes:keywords>
+		<itunes:owner>
+			<itunes:name>Prompt</itunes:name>
+			<itunes:email>prompt@nightgen.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://prompt.media/podcast.rss/images/itunes.png" />
+		<itunes:category text="Music" />
+		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>May 25th 2020</title>
+				<link>http://prompt.media/podcast.rss/episodes/2020/05/25/May-25th-2020.html</link>
+				<pubDate>Mon, 25 May 2020 03:18:00 -0700</pubDate>
+				<description>Drum and Bass Session - May 25th 2020 - San Francisco</description>
+				<guid isPermaLink="true">http://prompt.media/podcast.rss/episodes/2020/05/25/May-25th-2020.html</guid>
+				<enclosure url="http:http://thewumpus.com/prompt/Prompt%20-%2025th%20May%202020.mp3" length="155399656" type="audio/mp3"/>
+				<itunes:author>Prompt</itunes:author>
+				<itunes:subtitle>Prompt: May 25th 2020</itunes:subtitle>
+				<itunes:summary>Drum and Bass Session - May 25th 2020 - San Francisco</itunes:summary>
+				<itunes:duration>1:04:43</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://prompt.media/podcast.rss/images/itunes.png" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+		
+	</channel>
+</rss>

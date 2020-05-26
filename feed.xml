@@ -1,13 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description>Blogging about stuffs</description>
-    <link>blog url//</link>
-    <atom:link href="blog url//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 May 2020 18:27:20 -0700</pubDate>
-    <lastBuildDate>Sun, 17 May 2020 18:27:20 -0700</lastBuildDate>
+    <title>Prompt</title>
+    <description>Prompt Media - Drum and Bass - San Francisco</description>
+    <link>http://prompt.media/podcast.rss//</link>
+    <atom:link href="http://prompt.media/podcast.rss//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 25 May 2020 21:39:41 -0700</pubDate>
+    <lastBuildDate>Mon, 25 May 2020 21:39:41 -0700</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>May 25th 2020</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Citra - Universal Horn&lt;/li&gt;
+  &lt;li&gt;Soul Connection - Deep Sleep&lt;/li&gt;
+  &lt;li&gt;Furney - Requarium&lt;/li&gt;
+  &lt;li&gt;Impish - Chaning Colours (Vinyl Mix)&lt;/li&gt;
+  &lt;li&gt;Smote feat. T:Base - Without You&lt;/li&gt;
+  &lt;li&gt;Monrroe - Any Night&lt;/li&gt;
+  &lt;li&gt;Thread - need You&lt;/li&gt;
+  &lt;li&gt;Smote - Save Me&lt;/li&gt;
+  &lt;li&gt;Bert H - Aadwark&lt;/li&gt;
+  &lt;li&gt;Macca, Liz Contreras - You Were Mine&lt;/li&gt;
+  &lt;li&gt;Need for Mirrors - Zxana&lt;/li&gt;
+  &lt;li&gt;Qedamwai - The Noise&lt;/li&gt;
+  &lt;li&gt;Skoped - Grey Area&lt;/li&gt;
+  &lt;li&gt;Spectrasoul - Burst (Calibre Remix)&lt;/li&gt;
+  &lt;li&gt;Spectrasoul - Wrong to Love You&lt;/li&gt;
+  &lt;li&gt;Forum, SKS - Relative&lt;/li&gt;
+  &lt;li&gt;Degs fear. Pola &amp;amp; Bryson - Sleepless&lt;/li&gt;
+  &lt;li&gt;Technimatic - Chasing a Dream&lt;/li&gt;
+  &lt;li&gt;Waeys - Away&lt;/li&gt;
+  &lt;li&gt;Nami - Data One&lt;/li&gt;
+  &lt;li&gt;LQ _ Divination&lt;/li&gt;
+  &lt;li&gt;Confusious - Ignite&lt;/li&gt;
+  &lt;li&gt;Leniz - Big Dirty Cat&lt;/li&gt;
+  &lt;li&gt;Rockwell - User&lt;/li&gt;
+  &lt;li&gt;Ulterior Motive feat. DRS - Hey Judas&lt;/li&gt;
+  &lt;li&gt;Xenon - Hypothermia&lt;/li&gt;
+  &lt;li&gt;Simula - See It Through My Eyes&lt;/li&gt;
+  &lt;li&gt;Chase &amp;amp; Status - Take Me Away&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 25 May 2020 03:18:00 -0700</pubDate>
+        <link>http://prompt.media/podcast.rss//episodes/2020/05/25/May-25th-2020.html</link>
+        <guid isPermaLink="true">http://prompt.media/podcast.rss//episodes/2020/05/25/May-25th-2020.html</guid>
+        
+        
+        <category>episodes</category>
+        
+      </item>
     
   </channel>
 </rss>
