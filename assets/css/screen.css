@@ -689,7 +689,6 @@ margin on the iframe, cause it breaks stuff. */
     width: 80%;
     max-width: 710px;
     margin: 4rem auto;
-    padding-bottom: 4rem;
     word-break: break-word;
     hyphens: auto;
 }
