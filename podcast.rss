@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
 		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
-		<copyright>2020-2020-06-03 21:10:41 -0700 Prompt</copyright>
-		<pubDate>Wed, 03 Jun 2020 21:10:41 -0700</pubDate>
-		<lastBuildDate>Wed, 03 Jun 2020 21:10:41 -0700</lastBuildDate>
+		<copyright>2020-2020-06-03 21:41:26 -0700 Prompt</copyright>
+		<pubDate>Wed, 03 Jun 2020 21:41:26 -0700</pubDate>
+		<lastBuildDate>Wed, 03 Jun 2020 21:41:26 -0700</lastBuildDate>
 		<image>
 			<link>http://prompt.media/</link>
 			<url>http://prompt.media//images/itunes.png</url>
@@ -73,7 +73,7 @@
 				<itunes:duration>1:16:04</itunes:duration>
 				<itunes:keywords></itunes:keywords>
 				<itunes:image href="http://prompt.media//images/itunes.png" />
-				<itunes:explicit>no</itunes:explicit>
+				<itunes:explicit>false</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
@@ -117,7 +117,7 @@
 				<itunes:duration>1:04:43</itunes:duration>
 				<itunes:keywords></itunes:keywords>
 				<itunes:image href="http://prompt.media//images/itunes.png" />
-				<itunes:explicit>no</itunes:explicit>
+				<itunes:explicit>false</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
