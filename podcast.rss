@@ -1,49 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en">
 	<channel>
-		<atom:link href="{{ site.url }}podcast.rss" rel="self" type="application/rss+xml" />
-		<title>{{ site.title }} - Drum and Bass</title>
-		<description>{{ site.description | xml_escape }}</description>
-		<link>{{ site.url }}</link>
-		<language>{{ site.lang }}</language>
-		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
-		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
-		<copyright>2020-{{ site.time | "%Y" }} {{ site.title }}</copyright>
-		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+		<atom:link href="http://prompt.media/podcast.rss" rel="self" type="application/rss+xml" />
+		<title>Prompt - Drum and Bass</title>
+		<description>Prompt Media - Drum and Bass - San Francisco</description>
+		<link>http://prompt.media/</link>
+		<language>en</language>
+		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
+		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
+		<copyright>2020-2020-06-05 09:01:49 -0700 Prompt</copyright>
+		<pubDate>Fri, 05 Jun 2020 09:01:49 -0700</pubDate>
+		<lastBuildDate>Fri, 05 Jun 2020 09:01:49 -0700</lastBuildDate>
 		<image>
-			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/images/itunes.png</url>
-			<title>{{ site.title }}</title>
+			<link>http://prompt.media/</link>
+			<url>http://prompt.media/assets/images/podcast.jpg</url>
+			<title>Prompt</title>
 		</image>
-		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
-		<itunes:author>{{ site.author }}</itunes:author>
-		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
-		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
+		<itunes:subtitle>Prompt Media - Drum and Bass - San Francisco</itunes:subtitle>
+		<itunes:author>Prompt</itunes:author>
+		<itunes:summary>Prompt Media - Drum and Bass - San Francisco</itunes:summary>
+		<itunes:keywords></itunes:keywords>
 		<itunes:owner>
-			<itunes:name>{{ site.author }}</itunes:name>
-			<itunes:email>{{ site.email }}</itunes:email>
+			<itunes:name>Prompt</itunes:name>
+			<itunes:email>prompt@nightgen.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}assets/images/podcast.jpg" />
+		<itunes:image href="http://prompt.media/assets/images/podcast.jpg" />
 		<itunes:category text="Music" />
 		<itunes:explicit>yes</itunes:explicit>
-		{% for post in site.categories.episodes %}
+		
 			<item>
-				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<description>{{ post.content | strip_html | strip | xml_escape }}</description>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
-				<itunes:author>{{ site.author }}</itunes:author>
-				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
-				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
-				<itunes:duration>{{ post.duration }}</itunes:duration>
-				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}/images/itunes.png" />
-				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
-				<itunes:block>{{ post.block }}</itunes:block>
+				<title>3rd June 2020</title>
+				<link>http://prompt.media//episodes/2020/06/03/June-3rd-2020.html</link>
+				<pubDate>Wed, 03 Jun 2020 03:18:00 -0700</pubDate>
+				<description>Poschek - Lotus
+  Genic - Night
+  Motiv - Lose Control
+  Sili - Whatever It Takes
+  Halogenix - Reminisce
+  Saikon - Eastern Shimmer
+  Altitude - Levitate
+  Utah Jazz - Broken Home
+  Calibre - Pillow Dub
+  Alcemist - Gone
+  Hybrid Minds - Meant to Be (LSB Remix)
+  Frankee - Away
+  Workforce - Fragments
+  LSB - Destine
+  Technimatic - Sphere
+  Workforce - Two Words
+  LSB - Loop Of Love
+  Motiv - Speak In Silence
+  QZB feat. Charli Brix - Take It All
+  Grinder - Hypno
+  Science Of Man - Darkness
+  Logistics - Sleeper Dub
+  Rockwell - Vent
+  Kumo - 90’s Dreamer
+  Creatures &amp;amp; Exept - Source
+  Particle - Thermal
+  Amoss - The Antidote
+  Waeys - The Run
+  DRS Feat. Enei - Count To Ten
+  Invadhertz - Chainsaw
+  Creatures, Defex &amp;amp; Zound - Irreversible
+  Myth - No Limits
+  Mefjus, Noisia - Foundations</description>
+				<guid isPermaLink="true">http://prompt.media//episodes/2020/06/03/June-3rd-2020.html</guid>
+				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%203rd%20June%202020.mp3" length="184515552" type="audio/mp3"/>
+				<itunes:author>Prompt</itunes:author>
+				<itunes:subtitle>Prompt: 3rd June 2020</itunes:subtitle>
+				<itunes:summary>Drum and Bass Session - 3rd June 2020 - San Francisco</itunes:summary>
+				<itunes:duration>1:16:04</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://prompt.media//images/itunes.png" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:block>no</itunes:block>
 			</item>
-		{% endfor %}
+		
+			<item>
+				<title>25th May 2020</title>
+				<link>http://prompt.media//episodes/2020/05/25/May-25th-2020.html</link>
+				<pubDate>Mon, 25 May 2020 03:18:00 -0700</pubDate>
+				<description>Citra - Universal Horn
+  Soul Connection - Deep Sleep
+  Furney - Requarium
+  Impish - Chaning Colours (Vinyl Mix)
+  Smote feat. T:Base - Without You
+  Monrroe - Any Night
+  Thread - need You
+  Smote - Save Me
+  Bert H - Aadwark
+  Macca, Liz Contreras - You Were Mine
+  Need for Mirrors - Zxana
+  Qedamwai - The Noise
+  Skoped - Grey Area
+  Spectrasoul - Burst (Calibre Remix)
+  Spectrasoul - Wrong to Love You
+  Forum, SKS - Relative
+  Degs fear. Pola &amp;amp; Bryson - Sleepless
+  Technimatic - Chasing a Dream
+  Waeys - Away
+  Nami - Data One
+  LQ _ Divination
+  Confusious - Ignite
+  Leniz - Big Dirty Cat
+  Rockwell - User
+  Ulterior Motive feat. DRS - Hey Judas
+  Xenon - Hypothermia
+  Simula - See It Through My Eyes
+  Chase &amp;amp; Status - Take Me Away</description>
+				<guid isPermaLink="true">http://prompt.media//episodes/2020/05/25/May-25th-2020.html</guid>
+				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2025th%20May%202020.mp3" length="155399656" type="audio/mp3"/>
+				<itunes:author>Prompt</itunes:author>
+				<itunes:subtitle>Prompt: 25th May 2020</itunes:subtitle>
+				<itunes:summary>Drum and Bass Session - May 25th 2020 - San Francisco</itunes:summary>
+				<itunes:duration>1:04:43</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://prompt.media//images/itunes.png" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+		
 	</channel>
 </rss>
