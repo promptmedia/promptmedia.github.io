@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
 		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
-		<copyright>2020-2020-06-05 16:10:34 -0700 Prompt</copyright>
-		<pubDate>Fri, 05 Jun 2020 16:10:34 -0700</pubDate>
-		<lastBuildDate>Fri, 05 Jun 2020 16:10:34 -0700</lastBuildDate>
+		<copyright>2020-2020-06-19 18:23:14 -0700 Prompt</copyright>
+		<pubDate>Fri, 19 Jun 2020 18:23:14 -0700</pubDate>
+		<lastBuildDate>Fri, 19 Jun 2020 18:23:14 -0700</lastBuildDate>
 		<image>
 			<link>http://prompt.media/</link>
 			<url>http://prompt.media/assets/images/podcast.jpg</url>
@@ -27,6 +27,48 @@
 		<itunes:image href="http://prompt.media/assets/images/podcast.jpg" />
 		<itunes:category text="Music" />
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>19th June 2020</title>
+				<link>http://prompt.media//episodes/2020/06/19/June-19th-2020.html</link>
+				<pubDate>Fri, 19 Jun 2020 03:00:00 -0700</pubDate>
+				<description>Konetix - Joon
+  Calibre feat. DRS - Fear Of Letting Go
+  Tatora - Believe
+  Dawn Wall - Spears
+  Phaction - Cherished One
+  Atlantic Connection - Talk It Out
+  Arcatype - Canopy
+  Mitekiss - Charter
+  Dawn Wall - Rain God
+  Shapeless - Dreaming
+  Workforce - Heart Crossed
+  Duskee &amp;amp; Operate - Passenger
+  Dbrief - Way Back When
+  Matrix Goldtrix - Its Love Trippin Matrix
+  Shapeless - Moodswing
+  Halogenix - Tekina
+  Manual - So Seductive
+  HumaNature - Odyssey
+  Hybrid Minds feat. DRS - Dont Ever (Kanine Remix)
+  Machinedrum, Holly - Berry Patch (Halogenix Remix)
+  Bladerunner - Dont Break It
+  MVDVY - Quake
+  Manual - Fluctuate
+  Serum Paul &amp;amp; Edward Oberon - Moon in Your Eyes
+  The Skeptics - Control
+  Enei Particle feat. Jakes - Fame</description>
+				<guid isPermaLink="true">http://prompt.media//episodes/2020/06/19/June-19th-2020.html</guid>
+				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2019th%20June%202020.mp3" length="179009998" type="audio/mp3"/>
+				<itunes:author>Prompt</itunes:author>
+				<itunes:subtitle>Prompt: 19th June 2020</itunes:subtitle>
+				<itunes:summary>Drum and Bass Session - June 19th 2020 - San Francisco</itunes:summary>
+				<itunes:duration>1:13:46</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://prompt.media//assets/coverart/3.jpg" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>3rd June 2020</title>
