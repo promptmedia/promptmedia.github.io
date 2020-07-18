@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
 		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
-		<copyright>2020-2020-07-17 19:03:30 -0700 Prompt</copyright>
-		<pubDate>Fri, 17 Jul 2020 19:03:30 -0700</pubDate>
-		<lastBuildDate>Fri, 17 Jul 2020 19:03:30 -0700</lastBuildDate>
+		<copyright>2020-2020-07-17 19:05:09 -0700 Prompt</copyright>
+		<pubDate>Fri, 17 Jul 2020 19:05:09 -0700</pubDate>
+		<lastBuildDate>Fri, 17 Jul 2020 19:05:09 -0700</lastBuildDate>
 		<image>
 			<link>http://prompt.media/</link>
 			<url>http://prompt.media/assets/images/podcast.jpg</url>
@@ -27,6 +27,50 @@
 		<itunes:image href="http://prompt.media/assets/images/podcast.jpg" />
 		<itunes:category text="Music" />
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>17th July 2020</title>
+				<link>http://prompt.media//episodes/2020/07/17/July-17th-2020.html</link>
+				<pubDate>Fri, 17 Jul 2020 03:00:00 -0700</pubDate>
+				<description>Bcee - Sight Unseen
+  Hyroglifics - Best Of
+  Flaco - Take It Back
+  BCee - Little Bird (Monrroe Remix)
+  Workforce feat. DRS - Cheap Love
+  Dawn Wall - I See You (Original mix)
+  Satl - Feelings
+  The Upbeats &amp;amp; Shapeshifter - Uncharted (Workforce Remix)
+  Satl - So Much Better
+  Hiraeth Lowr - Jericho
+  Stompz - Moonship
+  Surreal - Dont Cry
+  R1C0 - Get Better
+  Komax - Zing
+  Creatures feat. Crom - Instinct
+  Hyroglifics &amp;amp; Kasra - Circular
+  Ill Truth  Creatures - Anchored (Original mix)
+  Monty - Canopy
+  Chaser - Lust
+  QZB - Nautilus
+  Enei - Rollin Machine
+  ZeroZero  Brain - Peanut Butter
+  Amoss Fre4knc - Question Answer
+  Shy FX - Balaclava (Skeptical Remix)
+  QZB &amp;amp; Amoss - Tigra
+  Amoss &amp;amp; Fre4knc - Dragger
+  Slander &amp;amp; Kompany - Broken (Mefjus Remix)
+  Drumsound &amp;amp; Bassline Smith - Rasta Blasta (VIP)</description>
+				<guid isPermaLink="true">http://prompt.media//episodes/2020/07/17/July-17th-2020.html</guid>
+				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2017th%20July%202020.mp3" length="208729846" type="audio/mp3"/>
+				<itunes:author>Prompt</itunes:author>
+				<itunes:subtitle>Prompt: 17th July 2020</itunes:subtitle>
+				<itunes:summary>Drum and Bass Session - July 17th 2020 - San Francisco</itunes:summary>
+				<itunes:duration>1:26:52</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://prompt.media//assets/coverart/4.jpg" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>19th June 2020</title>
@@ -66,50 +110,6 @@
 				<itunes:duration>1:13:46</itunes:duration>
 				<itunes:keywords></itunes:keywords>
 				<itunes:image href="http://prompt.media//assets/coverart/3.jpg" />
-				<itunes:explicit>false</itunes:explicit>
-				<itunes:block>no</itunes:block>
-			</item>
-		
-			<item>
-				<title>17th July 2020</title>
-				<link>http://prompt.media//episodes/2020/06/17/July-17th-2020.html</link>
-				<pubDate>Wed, 17 Jun 2020 03:00:00 -0700</pubDate>
-				<description>Bcee - Sight Unseen
-  Hyroglifics - Best Of
-  Flaco - Take It Back
-  BCee - Little Bird (Monrroe Remix)
-  Workforce feat. DRS - Cheap Love
-  Dawn Wall - I See You (Original mix)
-  Satl - Feelings
-  The Upbeats &amp;amp; Shapeshifter - Uncharted (Workforce Remix)
-  Satl - So Much Better
-  Hiraeth Lowr - Jericho
-  Stompz - Moonship
-  Surreal - Dont Cry
-  R1C0 - Get Better
-  Komax - Zing
-  Creatures feat. Crom - Instinct
-  Hyroglifics &amp;amp; Kasra - Circular
-  Ill Truth  Creatures - Anchored (Original mix)
-  Monty - Canopy
-  Chaser - Lust
-  QZB - Nautilus
-  Enei - Rollin Machine
-  ZeroZero  Brain - Peanut Butter
-  Amoss Fre4knc - Question Answer
-  Shy FX - Balaclava (Skeptical Remix)
-  QZB &amp;amp; Amoss - Tigra
-  Amoss &amp;amp; Fre4knc - Dragger
-  Slander &amp;amp; Kompany - Broken (Mefjus Remix)
-  Drumsound &amp;amp; Bassline Smith - Rasta Blasta (VIP)</description>
-				<guid isPermaLink="true">http://prompt.media//episodes/2020/06/17/July-17th-2020.html</guid>
-				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2017th%20July%202020.mp3" length="208729846" type="audio/mp3"/>
-				<itunes:author>Prompt</itunes:author>
-				<itunes:subtitle>Prompt: 17th July 2020</itunes:subtitle>
-				<itunes:summary>Drum and Bass Session - July 17th 2020 - San Francisco</itunes:summary>
-				<itunes:duration>1:26:52</itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="http://prompt.media//assets/coverart/4.jpg" />
 				<itunes:explicit>false</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
