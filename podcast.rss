@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
 		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
-		<copyright>2020-2020-07-17 19:10:31 -0700 Prompt</copyright>
-		<pubDate>Fri, 17 Jul 2020 19:10:31 -0700</pubDate>
-		<lastBuildDate>Fri, 17 Jul 2020 19:10:31 -0700</lastBuildDate>
+		<copyright>2020-2020-08-21 17:46:31 -0700 Prompt</copyright>
+		<pubDate>Fri, 21 Aug 2020 17:46:31 -0700</pubDate>
+		<lastBuildDate>Fri, 21 Aug 2020 17:46:31 -0700</lastBuildDate>
 		<image>
 			<link>http://prompt.media/</link>
 			<url>http://prompt.media/assets/images/podcast.jpg</url>
@@ -27,6 +27,47 @@
 		<itunes:image href="http://prompt.media/assets/images/podcast.jpg" />
 		<itunes:category text="Music" />
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>21st Auguest 2020</title>
+				<link>http://prompt.media//episodes/2020/08/21/August-21st-2020.html</link>
+				<pubDate>Fri, 21 Aug 2020 03:18:00 -0700</pubDate>
+				<description>Break Kyo - The Edge of Time (Workforce Remix)
+  Malaky - Believe
+  Satl - 4Lyfe
+  Alibi - Uneasy
+  Alibi - Redemption
+  Satl - Feelings
+  Emba Feat. DRS - Move Steady
+  Blacklab - Columbia
+  DJ Marky Macca, Loz Contreras - Daktari
+  Geostatic - Trust
+  Visages - Amaryllis
+  K Motionz Duskee - Hack It
+  EdIt feat. Pola  Bryson - The Ticket
+  Camo  Krooked - Turn Up The Music (Pola Bryson Remix)
+  GLXY - Research  Development
+  Levela - Sacred
+  DRS Gachet - Remember The Roller (Heist Remix)
+  The Vanguard Project - Stitches (Calibre Remix)
+  Satl - Yin
+  Bru-C Simula - You &amp;amp; I (Bou Remix)
+  Temam  Vici - Wild West
+  Visages feat. Skylark - Empire
+  Temam  Vici - Afterdark
+  ll Truth - Da Da
+  Spor - Cohesion</description>
+				<guid isPermaLink="true">http://prompt.media//episodes/2020/08/21/August-21st-2020.html</guid>
+				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2021st%20August%202020.mp3" length="183553432" type="audio/mp3"/>
+				<itunes:author>Prompt</itunes:author>
+				<itunes:subtitle>Prompt: 21st Auguest 2020</itunes:subtitle>
+				<itunes:summary>Drum and Bass Session - August 21st 2020 - San Francisco</itunes:summary>
+				<itunes:duration>1:16:24</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://prompt.media//assets/coverart/5.jpg" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>17th July 2020</title>
