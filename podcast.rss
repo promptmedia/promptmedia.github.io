@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
 		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
-		<copyright>2020-2020-08-21 17:48:29 -0700 Prompt</copyright>
-		<pubDate>Fri, 21 Aug 2020 17:48:29 -0700</pubDate>
-		<lastBuildDate>Fri, 21 Aug 2020 17:48:29 -0700</lastBuildDate>
+		<copyright>2020-2020-09-25 19:00:38 -0700 Prompt</copyright>
+		<pubDate>Fri, 25 Sep 2020 19:00:38 -0700</pubDate>
+		<lastBuildDate>Fri, 25 Sep 2020 19:00:38 -0700</lastBuildDate>
 		<image>
 			<link>http://prompt.media/</link>
 			<url>http://prompt.media/assets/images/podcast.jpg</url>
@@ -27,6 +27,47 @@
 		<itunes:image href="http://prompt.media/assets/images/podcast.jpg" />
 		<itunes:category text="Music" />
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>25th September 2020</title>
+				<link>http://prompt.media//episodes/2020/09/25/September-25th-2020.html</link>
+				<pubDate>Fri, 25 Sep 2020 03:18:00 -0700</pubDate>
+				<description>Disrupta &amp;amp; Duskee - Deep Thoughts
+  Redeyes feat. KSR - A Thousand Times
+  Winslow - Home Alone
+  Quentin Hiatus - Mega Foam Flowers
+  Artificial Intelligence &amp;amp; Makoto - Cold Expanse
+  Trail - Frames
+  Ownglow - Back To You
+  Alix Perez &amp;amp; Halogenix - Perfect Stranger
+  Mystic State - If You Knew
+  Dj Madd - Prosper
+  Visages feat. Skylark - Empire
+  Minor Forms - Biophonic
+  Ground &amp;amp; LaMeduza - I’d Do All
+  En:vy - Bonfire
+  Lovely - Big Bloodclart Sound
+  Phaction - Deus Ex
+  Ill Truth Defex - Roadkill
+  Artificial Intelligence - Outer Origins
+  TI DMinds - Pulling Teef
+  TI Zombie Cats - Sidestep
+  Trace Kid Drama - Raise
+  Trex - Do Nothing
+  Nymfo Sense MC - Hopeless &amp;amp; Free (Philth Remix)
+  Wingz - Artificial Killa
+  Joe Ford Stenchman Meloki - 4th Child</description>
+				<guid isPermaLink="true">http://prompt.media//episodes/2020/09/25/September-25th-2020.html</guid>
+				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2025th%20September%202020.mp3" length="169481871" type="audio/mp3"/>
+				<itunes:author>Prompt</itunes:author>
+				<itunes:subtitle>Prompt: 25th September 2020</itunes:subtitle>
+				<itunes:summary>Drum and Bass Session - September 25th 2020 - San Francisco</itunes:summary>
+				<itunes:duration>1:10:33</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://prompt.media//assets/coverart/6.jpg" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>21st August 2020</title>
