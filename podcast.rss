@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
 		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
-		<copyright>2020-2021-04-01 19:31:07 +1000 Prompt</copyright>
-		<pubDate>Thu, 01 Apr 2021 19:31:07 +1000</pubDate>
-		<lastBuildDate>Thu, 01 Apr 2021 19:31:07 +1000</lastBuildDate>
+		<copyright>2020-2021-04-01 19:37:37 +1000 Prompt</copyright>
+		<pubDate>Thu, 01 Apr 2021 19:37:37 +1000</pubDate>
+		<lastBuildDate>Thu, 01 Apr 2021 19:37:37 +1000</lastBuildDate>
 		<image>
 			<link>http://prompt.media/</link>
 			<url>http://prompt.media/assets/images/podcast.jpg</url>
@@ -27,6 +27,93 @@
 		<itunes:image href="http://prompt.media/assets/images/podcast.jpg" />
 		<itunes:category text="Music" />
 		<itunes:explicit>yes</itunes:explicit>
+		
+			<item>
+				<title>1st April 2021</title>
+				<link>http://prompt.media//episodes/2021/04/01/April-1st-2021.html</link>
+				<pubDate>Thu, 01 Apr 2021 10:00:00 +1000</pubDate>
+				<description>Soulstructure - Lovers &amp;amp; Friends
+  Unknown Artist - OPUS III
+  ALB - Distant
+  Alpha Rhythm - Bits &amp;amp; Pieces (feat. HumaNature)
+  AROHA - L2K
+  Luciano - Desire
+  Blacklab - Need 2 Be
+  Flo.Von and Tim Klein - Brightness
+  Redeyes, Monty - Belong / Running
+  Kontrast - Close To You
+  Flo.Von and Tim Klein - No Better
+  Shadows - Orca
+  GLXY, Rhi - Sweet Lows
+  Creatures &amp;amp; Rizzle - Chironex
+  The Skeptics - Into a Groove
+  Zound - Gallery
+  Habstrakt - Gotta Be
+  Furious Freaks - Far Out
+  Deploy - In My Head
+  Bladerunner - Take Me Away
+  Resound - Nonlinear
+  Operate, Rizzle, Rider Shafique - Mindset feat, Rider Shafique
+  Screamarts - Prodigy
+  Hyroglifics, AC13 - Mercy &amp;amp; Misery
+  Brian Brainstorm - No Ordinary Sound (Aries Remix)
+  Hystatus feat. Flower Rising - Another Day
+  Operate - Set You Free
+  Data 3 - Losing Myself (Revan Remix)
+  Fade Black - Far Gone
+  SLANDER &amp;amp; Kompany - Broken (Mefjus Remix)</description>
+				<guid isPermaLink="true">http://prompt.media//episodes/2021/04/01/April-1st-2021.html</guid>
+				<enclosure url="http://mew.jotlab.com//prompt/Prompt%20-%201st%20April%202021.mp3" length="215631965" type="audio/mp3"/>
+				<itunes:author>Prompt</itunes:author>
+				<itunes:subtitle>Prompt: 1st April 2021</itunes:subtitle>
+				<itunes:summary>Drum and Bass Session - April 1st 2021 - Brisbane Australia</itunes:summary>
+				<itunes:duration>1:29:40</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://prompt.media//assets/coverart/6.jpg" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+		
+			<item>
+				<title>25th September 2020</title>
+				<link>http://prompt.media//episodes/2020/09/25/September-25th-2020.html</link>
+				<pubDate>Fri, 25 Sep 2020 20:18:00 +1000</pubDate>
+				<description>Disrupta &amp;amp; Duskee - Deep Thoughts
+  Redeyes feat. KSR - A Thousand Times
+  Winslow - Home Alone
+  Quentin Hiatus - Mega Foam Flowers
+  Artificial Intelligence &amp;amp; Makoto - Cold Expanse
+  Trail - Frames
+  Ownglow - Back To You
+  Alix Perez &amp;amp; Halogenix - Perfect Stranger
+  Mystic State - If You Knew
+  Dj Madd - Prosper
+  Visages feat. Skylark - Empire
+  Minor Forms - Biophonic
+  Ground &amp;amp; LaMeduza - I’d Do All
+  En:vy - Bonfire
+  Lovely - Big Bloodclart Sound
+  Phaction - Deus Ex
+  Ill Truth Defex - Roadkill
+  Artificial Intelligence - Outer Origins
+  TI DMinds - Pulling Teef
+  TI Zombie Cats - Sidestep
+  Trace Kid Drama - Raise
+  Trex - Do Nothing
+  Nymfo Sense MC - Hopeless &amp;amp; Free (Philth Remix)
+  Wingz - Artificial Killa
+  Joe Ford Stenchman Meloki - 4th Child</description>
+				<guid isPermaLink="true">http://prompt.media//episodes/2020/09/25/September-25th-2020.html</guid>
+				<enclosure url="http://mew.jotlab.com/prompt/Prompt%20-%2025th%20September%202020.mp3" length="169481871" type="audio/mp3"/>
+				<itunes:author>Prompt</itunes:author>
+				<itunes:subtitle>Prompt: 25th September 2020</itunes:subtitle>
+				<itunes:summary>Drum and Bass Session - September 25th 2020 - San Francisco</itunes:summary>
+				<itunes:duration>1:10:33</itunes:duration>
+				<itunes:keywords></itunes:keywords>
+				<itunes:image href="http://prompt.media//assets/coverart/6.jpg" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>21st August 2020</title>
@@ -58,7 +145,7 @@
   ll Truth - Da Da
   Spor - Cohesion</description>
 				<guid isPermaLink="true">http://prompt.media//episodes/2020/08/21/August-21st-2020.html</guid>
-				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2021st%20August%202020.mp3" length="183553432" type="audio/mp3"/>
+				<enclosure url="http://mew.jotlab.com/prompt/Prompt%20-%2021st%20August%202020.mp3" length="183553432" type="audio/mp3"/>
 				<itunes:author>Prompt</itunes:author>
 				<itunes:subtitle>Prompt: 21st August 2020</itunes:subtitle>
 				<itunes:summary>Drum and Bass Session - August 21st 2020 - San Francisco</itunes:summary>
@@ -102,7 +189,7 @@
   Slander &amp;amp; Kompany - Broken (Mefjus Remix)
   Drumsound &amp;amp; Bassline Smith - Rasta Blasta (VIP)</description>
 				<guid isPermaLink="true">http://prompt.media//episodes/2020/07/17/July-17th-2020.html</guid>
-				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2017th%20July%202020.mp3" length="208729846" type="audio/mp3"/>
+				<enclosure url="http://mew.jotlab.com/prompt/Prompt%20-%2017th%20July%202020.mp3" length="208729846" type="audio/mp3"/>
 				<itunes:author>Prompt</itunes:author>
 				<itunes:subtitle>Prompt: 17th July 2020</itunes:subtitle>
 				<itunes:summary>Drum and Bass Session - July 17th 2020 - San Francisco</itunes:summary>
@@ -144,7 +231,7 @@
   The Skeptics - Control
   Enei Particle feat. Jakes - Fame</description>
 				<guid isPermaLink="true">http://prompt.media//episodes/2020/06/19/June-19th-2020.html</guid>
-				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2019th%20June%202020.mp3" length="179009998" type="audio/mp3"/>
+				<enclosure url="http://mew.jotlab.com/prompt/Prompt%20-%2019th%20June%202020.mp3" length="179009998" type="audio/mp3"/>
 				<itunes:author>Prompt</itunes:author>
 				<itunes:subtitle>Prompt: 19th June 2020</itunes:subtitle>
 				<itunes:summary>Drum and Bass Session - June 19th 2020 - San Francisco</itunes:summary>
@@ -193,7 +280,7 @@
   Myth - No Limits
   Mefjus, Noisia - Foundations</description>
 				<guid isPermaLink="true">http://prompt.media//episodes/2020/06/03/June-3rd-2020.html</guid>
-				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%203rd%20June%202020.mp3" length="184515552" type="audio/mp3"/>
+				<enclosure url="http://mew.jotlab.com/prompt/Prompt%20-%203rd%20June%202020.mp3" length="184515552" type="audio/mp3"/>
 				<itunes:author>Prompt</itunes:author>
 				<itunes:subtitle>Prompt: 3rd June 2020</itunes:subtitle>
 				<itunes:summary>Drum and Bass Session - 3rd June 2020 - San Francisco</itunes:summary>
@@ -237,7 +324,7 @@
   Simula - See It Through My Eyes
   Chase &amp;amp; Status - Take Me Away</description>
 				<guid isPermaLink="true">http://prompt.media//episodes/2020/05/25/May-25th-2020.html</guid>
-				<enclosure url="http://thewumpus.com/prompt/Prompt%20-%2025th%20May%202020.mp3" length="155399656" type="audio/mp3"/>
+				<enclosure url="http://mew.jotlab.com/prompt/Prompt%20-%2025th%20May%202020.mp3" length="155399656" type="audio/mp3"/>
 				<itunes:author>Prompt</itunes:author>
 				<itunes:subtitle>Prompt: 25th May 2020</itunes:subtitle>
 				<itunes:summary>Drum and Bass Session - May 25th 2020 - San Francisco</itunes:summary>
